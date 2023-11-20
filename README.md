@@ -11,14 +11,14 @@
 
     <body>
 
-        <h1># JsifyMC
+        <h1>JsifyMC
         </h1>
 
-Hello! im **Jsify**! I am a *YouTuber* and *Streamer* that plays *Minecraft* and *Fortnite*
+Hello! im Jsify! I am a YouTuber and Streamer that plays Minecraft and Fortnite
         
         <!-- Load external JavaScript -->
         
     </body>
 
 </html>
-<button OnClick="alertButton()">Shop Now</button>
+<button OnClick="alertButton()">More About Me</button>
