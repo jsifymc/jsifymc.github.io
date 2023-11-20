@@ -1,5 +1,3 @@
-<!doctype html>
-
 <html>
     <head>
         <meta charset="utf-8">
@@ -17,7 +15,6 @@
         </h1>
         
         <!-- Load external JavaScript -->
-        <script src="scripts.js"></script>
         
     </body>
 
