@@ -21,4 +21,4 @@ Hello! im Jsify! I am a YouTuber and Streamer that plays Minecraft and Fortnite
     </body>
 
 </html>
-<button OnClick="alertButton()">More About Me</button>
+<button OnClick="alertButton()">More</button>
