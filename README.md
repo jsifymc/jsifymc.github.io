@@ -11,8 +11,10 @@
 
     <body>
 
-        <h1>West Coast Lahinch
+        <h1># JsifyMC
         </h1>
+
+Hello! im **Jsify**! I am a *YouTuber* and *Streamer* that plays *Minecraft* and *Fortnite*
         
         <!-- Load external JavaScript -->
         
