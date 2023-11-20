@@ -23,5 +23,3 @@
 
 </html>
 <button OnClick="alertButton()">Shop Now</button>
-
-    <script src="scripts.js"></script>
